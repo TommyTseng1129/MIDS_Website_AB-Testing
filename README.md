@@ -1,6 +1,6 @@
 # MIDS_Website_AB-Testing
 
->>>>>>>>>>>>>>>> ![](MIDS_Logo.png)
+![         ](MIDS_Logo.png)
 
 # Topic
 The purpose of this project is to evaluate how the advertisement “tone” in ads for the MIDS program effect click rate. Tone in this context is defined as the notion trying to be conveyed through the ad.
