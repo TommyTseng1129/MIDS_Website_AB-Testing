@@ -1,5 +1,7 @@
 # MIDS_Website_AB-Testing
 
+>>>>>>>>>>>>>>>> ![](MIDS_Logo.png)
+
 # Topic
 The purpose of this project is to evaluate how the advertisement “tone” in ads for the MIDS program effect click rate. Tone in this context is defined as the notion trying to be conveyed through the ad.
 
@@ -29,4 +31,4 @@ Data will be collected via [LinkedIn or Google or Facebook ad analytics].
 ### *Control variables for analysis*
 > We will also look to monitor the information surrounding the ads like the time of day (and any other metadata we can get from the ads) of the clicks. Discrepancies in these statistics (say all clicks on ad A happen around 2am, while all clicks for ad B happen at midday) could represent a potential problem in the ad distribution.
 
-![](MIDS_Logo.png)
+
